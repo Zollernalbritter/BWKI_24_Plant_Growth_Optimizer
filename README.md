@@ -33,27 +33,35 @@ In diesem Repository finden Sie den Code sowie die Dokumentation unseres Projekt
 Unser Projekt begann mit der standardisierten Aussaat von 10 g Kressesamen, um eine vergleichbare Basis für die Wachstumszyklen zu schaffen. Die Samen wurden entweder auf Watte oder Erde ausgesät. Dabei führten wir verschiedene Experimente mit Microgreens (Kresse und Radies) durch.
 
 ### **Ablauf eines Wachstumszyklus:**
+
 1. **Abmessen der Kressesamen:**  
-   ![Abmessen der Kressesamen](/Dokumentation%20des%20Anbaus/Abmessen%20der%20Kressesamen.jpeg)
+   <img src="/Dokumentation%20des%20Anbaus/Abmessen%20der%20Kressesamen.jpeg" alt="Abmessen der Kressesamen" width="300">
 
 2. **Aussat der Samen auf Watte und Erde:**  
-   ![Aussat der Kresse](/Dokumentation%20des%20Anbaus/Aussat%20der%20Kressesamen.jpeg)  
-   ![Aussat auf Erde](/Dokumentation%20des%20Anbaus/Test%20aufbau%20in%20Gewächshaus.jpeg)
+   <img src="/Dokumentation%20des%20Anbaus/Aussat%20der%20Kressesamen.jpeg" alt="Aussat der Kresse" width="300">
+   <img src="/Dokumentation%20des%20Anbaus/Test%20aufbau%20in%20Gewächshaus.jpeg" alt="Aussat auf Erde" width="300">
 
 3. **Tägliche Dokumentation des Wachstums (Radies, 5 Tage):**  
-   ![Tag 1](/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%201).jpeg)  
-   ![Tag 2](/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%202).jpeg)  
-   ![Tag 3](/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%203).jpeg)  
-   ![Tag 4](/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%204).jpeg)  
-   ![Tag 5](/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%205).jpeg)
+   <div style="display: flex; justify-content: space-around;">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%201).jpeg" alt="Tag 1" width="200">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%202).jpeg" alt="Tag 2" width="200">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%203).jpeg" alt="Tag 3" width="200">
+   </div>
+
+   <div style="display: flex; justify-content: space-around;">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%204).jpeg" alt="Tag 4" width="200">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%205).jpeg" alt="Tag 5" width="200">
+   </div>
 
 4. **Ausgewachsene Kresse zum Vergleich:**  
-   ![Kresse Ausgewachsen](/Dokumentation%20des%20Anbaus/Kresse%20Ausgewachsen.jpeg)  
-   ![Kresse Nahaufnahme](/Dokumentation%20des%20Anbaus/Nahaufnahme%20Kresse.jpeg)
+   <img src="/Dokumentation%20des%20Anbaus/Kresse%20Ausgewachsen.jpeg" alt="Kresse Ausgewachsen" width="300">  
+   <img src="/Dokumentation%20des%20Anbaus/Nahaufnahme%20Kresse.jpeg" alt="Kresse Nahaufnahme" width="300">
 
 5. **Ertragsmessung:**  
-   ![Ertrag 1](/Dokumentation%20des%20Anbaus/Abwiegen%20des%20Ertrags%201.jpeg)  
-   ![Ertrag 2](/Dokumentation%20des%20Anbaus/Abwiegen%20des%20Ertrags%202.jpeg)
+   <div style="display: flex; justify-content: space-around;">
+      <img src="/Dokumentation%20des%20Anbaus/Abwiegen%20des%20Ertrags%201.jpeg" alt="Ertrag 1" width="300">  
+      <img src="/Dokumentation%20des%20Anbaus/Abwiegen%20des%20Ertrags%202.jpeg" alt="Ertrag 2" width="300">
+   </div>
 
 ### **Ergebnisse der Experimente:**
 - **Wassermenge und Ertrag:**  
@@ -98,9 +106,10 @@ Besuchen Sie unsere [alte Webvisualisierung](https://hou-mea.com/dataVisualizer/
 ## **Wachstumsgif**
 Hier ein animiertes GIF, das den Wachstumsprozess der Kresse über mehrere Tage zeigt:
 
-![Wachstumsgif](/Wachstum.gif)
+<img src="/Wachstum.gif" alt="Wachstumsgif" width="500">
 
 ---
 
 Dieses Repository enthält den vollständigen Code für unser Projekt, einschließlich der Wachstumsdaten, des neuronalen Netzes und der Platinen-Software. Weitere Informationen zu den einzelnen Komponenten finden Sie in den entsprechenden Unterordnern.
 
+---
