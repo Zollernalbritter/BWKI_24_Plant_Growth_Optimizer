@@ -79,6 +79,7 @@ Hier ist der angepasste Code für die **Edge Detection Seed**-Sektion mit den hi
 
 ## **Edge Detection Seed**
 In diesem Abschnitt unseres Repositories finden Sie den Code zur Samenkorndetektion. Mit dieser Technologie optimieren wir die relative Position der Samen zueinander, um eine bessere Keimung zu gewährleisten. Die Bildverarbeitungstechniken wie Sobel- und Canny-Algorithmen helfen dabei, die Konturen der Samen zu erkennen. Jedoch haben wir noch keinen eigenen Algorithmus entwickelt, welcher für uns die Auswertung übernimmt.
+Bild 1: Orginal Foto; Bild 2: Output Canny Algorithmus; Bild 3: Output Sobel Algorithmus
 
 ### **Bilder der Samenkorndetektion:**
 
