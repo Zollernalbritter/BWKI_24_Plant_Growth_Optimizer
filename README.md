@@ -86,19 +86,16 @@ In diesem Abschnitt unseres Repositories finden Sie den Code zur Samenkorndetekt
    <!-- Original Seed Image -->
    <figure>
       <img src="/Edge%20Detection%20Seed/Seed.png" alt="Original Seed Image" height="250">
-      <figcaption>Originales Bild des Samens</figcaption>
    </figure>
 
    <!-- Canny Edge Detection Output -->
    <figure>
       <img src="/Edge%20Detection%20Seed/Edge%20Detection%20Seed%20Output%20Canny.png" alt="Canny Edge Detection" height="250">
-      <figcaption>Ergebnis der Canny-Detektion</figcaption>
    </figure>
 
    <!-- Sobel Edge Detection Output -->
    <figure>
       <img src="/Edge%20Detection%20Seed/Edge%20Detection%20Seed%20Output%20Sobel.png" alt="Sobel Edge Detection" height="250">
-      <figcaption>Ergebnis der Sobel-Detektion</figcaption>
    </figure>
 </div>
 
