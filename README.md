@@ -35,32 +35,33 @@ Unser Projekt begann mit der standardisierten Aussaat von 10 g Kressesamen, um e
 ### **Ablauf eines Wachstumszyklus:**
 
 1. **Abmessen der Kressesamen:**  
-   <img src="/Dokumentation%20des%20Anbaus/Abmessen%20der%20Kressesamen.jpeg" alt="Abmessen der Kressesamen" width="300">
+   <img src="/Dokumentation%20des%20Anbaus/Abmessen%20der%20Kressesamen.jpeg" alt="Abmessen der Kressesamen" height="250">
 
 2. **Aussat der Samen auf Watte und Erde:**  
-   <img src="/Dokumentation%20des%20Anbaus/Aussat%20der%20Kressesamen.jpeg" alt="Aussat der Kresse" width="300">
-   <img src="/Dokumentation%20des%20Anbaus/Test%20aufbau%20in%20Gewächshaus.jpeg" alt="Aussat auf Erde" width="300">
+   <img src="/Dokumentation%20des%20Anbaus/Aussat%20der%20Kressesamen.jpeg" alt="Aussat der Kresse" height="250">
+   <img src="/Dokumentation%20des%20Anbaus/Test%20aufbau%20in%20Gewächshaus.jpeg" alt="Aussat auf Erde" height="250">
 
-3. **Tägliche Dokumentation des Wachstums (Radies, 5 Tage):**  
+3. **Tägliche Dokumentation des Wachstums (Radies, 5 Tage):**
+
    <div style="display: flex; justify-content: space-around;">
-      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%201).jpeg" alt="Tag 1" width="200">
-      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%202).jpeg" alt="Tag 2" width="200">
-      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%203).jpeg" alt="Tag 3" width="200">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%201).jpeg" alt="Tag 1" height="250">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%202).jpeg" alt="Tag 2" height="250">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%203).jpeg" alt="Tag 3" height="250">
    </div>
 
    <div style="display: flex; justify-content: space-around;">
-      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%204).jpeg" alt="Tag 4" width="200">
-      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%205).jpeg" alt="Tag 5" width="200">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%204).jpeg" alt="Tag 4" height="250">
+      <img src="/Dokumentation%20des%20Anbaus/Microgreens%20Test%20(Tag%205).jpeg" alt="Tag 5" height="250">
    </div>
 
 4. **Ausgewachsene Kresse zum Vergleich:**  
-   <img src="/Dokumentation%20des%20Anbaus/Kresse%20Ausgewachsen.jpeg" alt="Kresse Ausgewachsen" width="300">  
-   <img src="/Dokumentation%20des%20Anbaus/Nahaufnahme%20Kresse.jpeg" alt="Kresse Nahaufnahme" width="300">
+   <img src="/Dokumentation%20des%20Anbaus/Kresse%20Ausgewachsen.jpeg" alt="Kresse Ausgewachsen" height="250">  
+   <img src="/Dokumentation%20des%20Anbaus/Nahaufnahme%20Kresse.jpeg" alt="Kresse Nahaufnahme" height="250">
 
 5. **Ertragsmessung:**  
    <div style="display: flex; justify-content: space-around;">
-      <img src="/Dokumentation%20des%20Anbaus/Abwiegen%20des%20Ertrags%201.jpeg" alt="Ertrag 1" width="300">  
-      <img src="/Dokumentation%20des%20Anbaus/Abwiegen%20des%20Ertrags%202.jpeg" alt="Ertrag 2" width="300">
+      <img src="/Dokumentation%20des%20Anbaus/Abwiegen%20des%20Ertrags%201.jpeg" alt="Ertrag 1" height="250">  
+      <img src="/Dokumentation%20des%20Anbaus/Abwiegen%20des%20Ertrags%202.jpeg" alt="Ertrag 2" height="250">
    </div>
 
 ### **Ergebnisse der Experimente:**
@@ -106,7 +107,7 @@ Besuchen Sie unsere [alte Webvisualisierung](https://hou-mea.com/dataVisualizer/
 ## **Wachstumsgif**
 Hier ein animiertes GIF, das den Wachstumsprozess der Kresse über mehrere Tage zeigt:
 
-<img src="/Wachstum.gif" alt="Wachstumsgif" width="500">
+<img src="/Wachstum.gif" alt="Wachstumsgif" height="400">
 
 ---
 
