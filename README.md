@@ -133,6 +133,6 @@ Hier ein animiertes GIF, das den Wachstumsprozess der Kresse über mehrere Tage 
 
 ---
 
-Dieses Repository enthält den vollständigen Code für unser Projekt, einschließlich der Wachstumsdaten, des neuronalen Netzes und der Platinen-Software. Weitere Informationen zu den einzelnen Komponenten finden Sie in den entsprechenden Unterordnern.
+Dieses Repository enthält die wichtigsten Code ausschnitte für unser Projekt, einschließlich eines Datensatzes von einem Wachstumszyklus, des neuronalen Netzes und der Platinen-Software. Weitere Informationen zu den einzelnen Komponenten finden Sie in den entsprechenden Unterordnern.
 
 ---
