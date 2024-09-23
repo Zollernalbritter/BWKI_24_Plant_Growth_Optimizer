@@ -73,8 +73,34 @@ Unser Projekt begann mit der standardisierten Aussaat von 10 g Kressesamen, um e
 
 ---
 
+Hier ist der angepasste Code für die **Edge Detection Seed**-Sektion mit den hinzugefügten Bildern:
+
+---
+
 ## **Edge Detection Seed**
-In diesem Abschnitt unseres Repositories finden Sie den Code zur Samenkorndetektion. Mit dieser Technologie optimieren wir die relative Position der Samen, um eine bessere Keimung zu gewährleisten.
+In diesem Abschnitt unseres Repositories finden Sie den Code zur Samenkorndetektion. Mit dieser Technologie optimieren wir die relative Position der Samen, um eine bessere Keimung zu gewährleisten. Die Bildverarbeitungstechniken wie Sobel- und Canny-Algorithmen helfen dabei, die Konturen der Samen zu erkennen.
+
+### **Bilder der Samenkorndetektion:**
+
+<div style="display: flex; justify-content: space-around;">
+   <!-- Original Seed Image -->
+   <figure>
+      <img src="/Edge%20Detection%20Seed/Seed.png" alt="Original Seed Image" height="250">
+      <figcaption>Originales Bild des Samens</figcaption>
+   </figure>
+
+   <!-- Canny Edge Detection Output -->
+   <figure>
+      <img src="/Edge%20Detection%20Seed/Edge%20Detection%20Seed%20Output%20Canny.png" alt="Canny Edge Detection" height="250">
+      <figcaption>Ergebnis der Canny-Detektion</figcaption>
+   </figure>
+
+   <!-- Sobel Edge Detection Output -->
+   <figure>
+      <img src="/Edge%20Detection%20Seed/Edge%20Detection%20Seed%20Output%20Sobel.png" alt="Sobel Edge Detection" height="250">
+      <figcaption>Ergebnis der Sobel-Detektion</figcaption>
+   </figure>
+</div>
 
 ---
 
